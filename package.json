@@ -1,0 +1,32 @@
+{
+  "name": "nodejs_block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hquzzz22/nodejs_block.git"
+  },
+  "keywords": [
+    "f8",
+    "block",
+    "f8",
+    "nodejs"
+  ],
+  "author": "hoangquy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hquzzz22/nodejs_block/issues"
+  },
+  "homepage": "https://github.com/hquzzz22/nodejs_block#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
